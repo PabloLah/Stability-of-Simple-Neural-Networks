@@ -19,7 +19,7 @@ The goal is to gain insights into how small neural networks generalize and how t
 
 ## **Code Structure**
 - Jupyter notebooks with experimental results and visualizations.
-- `report/`: Includes the full thesis as a PDF for reference.
+- Includes the full thesis as a PDF for reference.
 
 ## **How to Use This Repository**
 This repository is meant as a reference for understanding stability in simple neural networks. The code is not guaranteed to be a plug-and-play framework but rather a collection of experiments that accompany my thesis. If you're interested in running the experiments, you may need to adapt the code to your setup.
